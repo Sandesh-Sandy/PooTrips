@@ -19,7 +19,7 @@ const Footer = () => {
             sx={{
                 color: '#02bf3e',           
                 fontSize: '1.5rem',
-                fontWeight: 700
+                fontWeight: 800
             }}
         >
             Sandesh
